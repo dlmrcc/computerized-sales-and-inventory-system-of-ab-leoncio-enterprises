@@ -1,0 +1,172 @@
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\bin\Debug\ABLECSIS.exe
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfProduct.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfProdSet.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+C:\Users\pc1\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\bin\Debug\ABLECSIS.exe
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfProdSet.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfProduct.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaldy allado\Desktop\ABLECSIS\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.exe
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfInventory.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogInHistory.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverageSet.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverage.resources
+C:\Users\pc1\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAdminPassword.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.exe
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAdminPassword.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfInventory.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogInHistory.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverageSet.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverage.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaldy allado\Mark Files\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+F:\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.exe
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAdminPassword.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfInventory.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogInHistory.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverageSet.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverage.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.exe
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.pdb
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAdminPassword.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfInventory.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogInHistory.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverageSet.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverage.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\Desktop\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.exe
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\bin\Debug\ABLECSIS.pdb
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.Properties.Resources.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.ucUser.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAddExisting.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfAdminPassword.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfChangeUser.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCreateUser.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustomer.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfCustSet.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfForgotPassword.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfHome.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfInventory.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogIn.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfLogInHistory.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPassword.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverageSet.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfBeverage.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfPurchasing.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.wfUser.resources
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Thesis namin lahat\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Juanerio\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+C:\Users\CAVALIERS\Desktop\THESIS\Thesis namin lahat\Juanerio\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
+D:\AAA\MY IMPORTANT DOCS\THESIS\Thesis namin lahat\Juanerio\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.exe
+D:\AAA\MY IMPORTANT DOCS\THESIS\Thesis namin lahat\Juanerio\ABLECSIS EDITED\ABLECSIS\obj\x86\Debug\ABLECSIS.pdb
